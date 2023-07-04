@@ -7,7 +7,7 @@ public class test {
     public void test(){
         String a = "Hello world";
         System.out.println(a);
-        assert a.equals("Hello world");
+        assert a.equals("Hello worl");
     }
 
 }
